@@ -3,7 +3,7 @@
 ## FAFA means [Five assembled for Autonomous]
 
 ## 1. 프로젝트 소개
-[![Video Label](/pic/표지.png)](https://youtu.be/E9MgEd5yksw)
+[![Video Label](/picture/FAFA이미지.png)](https://youtu.be/E9MgEd5yksw)
 
 카메라를 통한 영상인식으로 외부상황을 인지하고 센서로 주변 물체를 감지하며 자율주행하는 모형차의 임베디드 시스템을 개발한다.
 
